@@ -41,6 +41,20 @@ I design and build backend systems that stay stable under real production load �
 
 <br/>
 
+### 📊 Contribution activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flick-p/flick-p/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flick-p/flick-p/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/flick-p/flick-p/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
 ### 💼 Recent work
 
 | Project | Role | Stack |
