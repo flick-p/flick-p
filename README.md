@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0080FF&height=200&section=header&text=Mengly%20Sovan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Go%20%7C%20Fintech%20%26amp%3B%20Blockchain&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.menglysovan.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+scalable+systems+in+Go;Fintech+payments+%E2%80%A2+Blockchain+infra;Bakong+%7C+KHQR+%7C+TRON+%7C+USDT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+scalable+systems+in+Go;Fintech+payments+%E2%80%A2+Blockchain+infra;Bakong+%7C+KHQR+%7C+TRON+%7C+USDT" alt="Typing SVG" />
 </a>
 
 🌐 [www.menglysovan.dev](https://www.menglysovan.dev) &nbsp;·&nbsp; 📍 Phnom Penh, Cambodia
